@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">reactionicfb</string>
+    <string name="title_activity_main">reactionicfb</string>
+    <string name="package_name">com.aks.reactionicfb</string>
+    <string name="custom_url_scheme">com.aks.reactionicfb</string>
+</resources>
